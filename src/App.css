@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+
+.header {
+  flex: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: lightslategrey;
+}
